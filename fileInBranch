@@ -1,4 +1,8 @@
 
 This is new information in file
 
+<<<<<<< HEAD
 test from Main branch!
+=======
+Branch -=feature=-  Add new line in file
+>>>>>>> feature
